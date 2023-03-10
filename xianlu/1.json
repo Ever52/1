@@ -112,7 +112,7 @@
 
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":
 
-//["proxy://do=live&type=txt&ext=Y2xhbjovL2phci9saXZlLnR4dA=="]
+["proxy://do=live&type=txt&ext=Y2xhbjovL2phci9saXZlLnR4dA=="]
 
 ["proxy://do=live&type=txt&ext=aHR0cDovL2RkLm1hLzQzZXNmUEZx"]
 
