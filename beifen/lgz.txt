@@ -2,38 +2,38 @@
 {
   "sites": [
     {
-      "key": "liugongzi",
-      "name": "👇点主页↙️切",
-      "type": 3,
-      "api": "csp_XBPQ",
+      "key": "liugongzi"，
+      "name": "👇点主页↙️切"，
+      "type": 3，
+      "api": "csp_XBPQ"，
       "ext": {
-        "分类": "电影$1#连续剧$2#综艺$3#动漫$4#纪录片$5",
+        "分类": "电影$1#连续剧$2#综艺$3#动漫$4#纪录片$5"，
         "分类url": "http://www.yilonghd.com/show/id-{cateId}/area/{area}/class/{class}/page/{catePg}/year/{year}.html;;mal"
       }
-    },
+    }，
     {
-      "key": "直播转点播",
-      "name": "📺电视直播",
-      "type": 3,
-      "api": "http://lgz.hk3.20212021.ml.cdn.cloudflare.net/直播转点播2.js",
+      "key": "直播转点播"，
+      "name": "📺电视直播"，
+      "type": 3，
+      "api": "http://lgz.hk3.20212021.ml.cdn.cloudflare.net/直播转点播2.js"，
       "ext": "http://lgz.hk3.20212021.ml.cdn.cloudflare.net/直播.txt"
-    },
+    }，
     {
-      "key": "mtv_xp_相声小品",
-      "name": "📸相声",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
+      "key": "mtv_xp_相声小品"，
+      "name": "📸相声"，
+      "type": 3，
+      "api": "csp_Bili"，
+      "searchable": 0，
+      "quickSearch": 0，
+      "filterable": 1，
       "ext": "http://52bsj.vip:98/xiaopin"
-    },
+    }，
     {
-      "key": "csp_戏曲",
-      "name": "🤡戏曲",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
+      "key": "csp_戏曲"，
+      "name": "🤡戏曲"，
+      "type": 3，
+      "api": "csp_Bili"，
+      "searchable": 0，
       "quickSearch": 0,
       "filterable": 1,
       "ext": "http://我不是.肥猫.love:63/json/戏曲.json"
